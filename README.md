@@ -12,9 +12,9 @@
 <h2>Development Tools and Data Structures</h2>
 
 - <b>Web Crawler:</b> Utilizes Trie Data Structure and LinkedList.
-- <b>Ranking Occurrence:</b> mplements Hashset, List, Set, and String#indexOf.
+- <b>Ranking Occurrence:</b> Implements Hashset, List, Set, and String#indexOf.
 - <b>Word Search:</b> Incorporates Trie Data Structure, Hashset, and LinkedList.
-- <b>HTML to Text Conversio:</b> Uses JSoup.
+- <b>HTML to Text Conversion:</b> Uses JSoup.
 - <b>Execution Time:</b> Monitored using currentTimeMillis.
 - <b>StopWords Handling:</b> Employs Arrays and List.
 
